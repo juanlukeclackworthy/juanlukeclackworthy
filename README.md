@@ -1,8 +1,6 @@
 ### Hi, I'm Juan Luke Clackworthy  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-- 🔭 I’m currently working towards my post post graduate cirtificate at [George Brown College](https://www.georgebrown.ca/).
-- 🌱 I’m currently learning Deep learning models such as RNN,CNN and ANN.
+- 🌱 I have worked with Deep learning models such as RNN,CNN and ANN.
 - 💬 I’m looking to collaborate on LinkedIN [@juanlukeclackworthy](https://www.linkedin.com/in/juanlukeclackworthy/).
 - 😄 Pronouns: He/Him
 
